@@ -2,10 +2,8 @@
 
 A simple and powerful **Facebook Video Downloader** built with **Python** that lets you download **Facebook Videos, Reels, Stories, and Shorts** quickly and easily.  
 
-![Preview](screenshot.png)  
-*(Add your own screenshot here)*
-
----
+![Screenshot](screenshot.png)
+ ---
 
 ## 🚀 Features
 - ✅ Download **Facebook Videos, Reels, Stories, Shorts**  
